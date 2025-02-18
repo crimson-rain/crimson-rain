@@ -10,7 +10,6 @@ Crafting Immersive Worlds, Intelligent Systems and Exploring Low-Level Computing
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=crimson-rain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crimson-rain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crimson-rain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=crimson-rain&limit=5&theme=transparent&combine_all_yearly_contributions=true)
